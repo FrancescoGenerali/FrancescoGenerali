@@ -2,7 +2,7 @@
 <h3 align="center">A passionate game-developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 👨‍💻 You can find more info about me here: [https://www.francescogenerali.com/](https://www.francescogenerali.github.io)
+- 👨‍💻 You can find more info about me here: [https://www.francescogenerali.github.io/](https://www.francescogenerali.github.io)
 
 - 📫 How to reach me **fgenerali.dev@gmail.com**
 
